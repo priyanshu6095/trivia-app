@@ -1,6 +1,6 @@
 # Repository README
 
-## Version 1.0
+
 
 **Note**: The exercises in this course will have an associated charge in your AWS account. In this exercise, you will create the following resources:
 
@@ -120,8 +120,11 @@ git remote add origin codecommit://trivia-app
 git push origin main
 ```
 
-This README provides step-by-step instructions for setting up your development environment, deploying backend and frontend resources, and putting the application under source control.
+This README provides step-by-step instructions for setting up your development env<img width="1470" alt="Screenshot 2023-09-03 at 1 38 53 AM" src="https://github.com/priyanshu6095/trivia-app/assets/110556881/46176488-2155-45d0-9bb4-73609bc0b82a"><img width="1470" alt="Screenshot 2023-09-03 at 1 39 36 AM" src="https://github.com/priyanshu6095/trivia-app/assets/110556881/25bb9b2b-da66-405f-897b-f657793d25bb">
 
-For any questions or feedback, please contact us at [AWS Support](https://support.aws.amazon.com/#/contacts/aws-training).
+ironment, deploying backend and frontend resources, and putting the application under source control.
+REULTS SCREENSHOTS<img width="1470" alt="Screenshot 2023-<img width="1470" alt="Screenshot 2023-09-03 at 1 39 41 AM" src="https://github.com/priyanshu6095/trivia-app/assets/110556881/fcfb84ab-a990-4788-9a91-6c0c5f435a04">
+09-03 at 1 38 32 AM" src="https://github.com/priyanshu6095/trivia-app/assets/110556881/4f4a32fe-ed09-431a-a109-51e85a91ccf8">
 
-© 2021 Amazon Web Services, Inc. or its affiliates. All rights reserved. This work may not be reproduced or redistributed, in whole or in part, without prior written permission from Amazon Web Services, Inc. Commercial copying, lending, or selling is prohibited. All trademarks are the property of their respective owners.# trivia-app
+
+
