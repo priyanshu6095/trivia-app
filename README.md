@@ -1,31 +1,7 @@
 # Repository README
 
 
-
-**Note**: The exercises in this course will have an associated charge in your AWS account. In this exercise, you will create the following resources:
-
-- AWS Cloud9 environment
-- Amazon Simple Storage Service (Amazon S3) bucket
-- Amazon API Gateway REST API
-- Amazon DynamoDB table
-- AWS Step Functions state machine
-- AWS Lambda functions
-
-The final exercise includes instructions to delete all the resources that you create in the exercises.
-
-**Please familiarize yourself with AWS pricing for the following services:**
-- AWS Cloud9 Pricing
-- Amazon S3 Pricing
-- Amazon API Gateway Pricing
-- Amazon DynamoDB Pricing
-- AWS Step Functions Pricing
-- AWS Lambda Pricing
-
-Also, be aware of the AWS Free Tier.
-
----
-
-### Exercise: Setting Up Your Development Environment
+ Setting Up Your Development Environment
 
 In a production environment, you would typically create a customer-managed policy in AWS Identity and Access Management (IAM) for precise control over your policies. This policy would then be attached to a new user, and you would log in to the AWS Management Console with that user. However, because you are working in an exercise environment, those steps were omitted.
 
